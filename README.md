@@ -9,7 +9,6 @@ My favourite stacks are:
 - PHP, Laravel/WordPress, MySQL and Docker
 - Plain ole HTML5, CSS3 and ES6 JavaScript
 
-<br/>
 
 ### ⚡ Hobbies & Interests
 - Video games - lots of retro & indie titles 🕹
@@ -17,7 +16,6 @@ My favourite stacks are:
 - Reading - mostly fantasy, especially LOTR 📚
 - Keeping (apparently, too many) houseplants 🌻
 
-<br/>
 
 ### 📫 Get in Touch
 
