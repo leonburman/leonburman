@@ -1,7 +1,7 @@
 
 ### Hello, I'm Leon :wave: <br/> Co-Founder & Developer @ PixelsMatter
 
-Welcome to my humble GitHub profile! Make yourself comfortable. <br/>
+Welcome to my humble GitHub profile! Make yourself comfortable. <br/> <br/>
 I'm a web/software developer based in Leigh-on-Sea, Essex (UK). I have over 10 years of working experience in the industry, and my most recent endeavour is building my small business, [PixelsMatter](https://pixelsmatter.io), with my fiancé and Co-Founder/Designer, Christine. 
 
 My favourite stacks are:
