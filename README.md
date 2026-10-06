@@ -1,8 +1,8 @@
 
-### Hello, I'm Leon :wave: <br/> Co-Founder & Developer @ PixelsMatter
+### Hello, I'm Leon :wave: <br/> Founder & Developer @ Mythic Digital
 
 Welcome to my humble GitHub profile! Make yourself comfortable. <br/> <br/>
-I'm a web/software developer based in Rayleigh, Essex (UK). I have over 10 years of working experience in the industry, and my most recent endeavour is building my small business, [PixelsMatter](https://pixelsmatter.io), with my fiancé and Co-Founder/Designer, Christine. 
+I'm a web/software developer based in Rayleigh, Essex (UK). I have over 10 years of working experience in the industry, and my most recent endeavour is building my small business, [Mythic Digital](https://mythic.digital). 
 
 My favourite stacks are:
 - JAMstack (JavaScript API Markup), typically utilising Next/React, TypeScript, Tailwind and a Node-based CMS
@@ -19,11 +19,11 @@ My favourite stacks are:
 
 ### 📫 Get in Touch
 
-**Email:** [leon@pixelsmatter.io](mailto:leon@pixelsmatter.io)<br/>
+**Email:** [leon@mythic.digital.io](mailto:leon@mythic.digital)<br/>
 **LinkedIn:** [linkedin.com/in/leon-burman](https://www.linkedin.com/in/leon-burman) <br/>
 
 **Personal Portfolio:** [leonburman.dev](https://leonburman.dev)<br/>
-**My Company:** [pixelsmatter.io](https://pixelsmatter.io)<br/>
+**My Company:** [mythic.digital](https://mythic.digital)<br/>
 
 <br/>
 Available for Work ✅
