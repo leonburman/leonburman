@@ -2,7 +2,7 @@
 ### Hello, I'm Leon :wave: <br/> Co-Founder & Developer @ PixelsMatter
 
 Welcome to my humble GitHub profile! Make yourself comfortable. <br/> <br/>
-I'm a web/software developer based in Leigh-on-Sea, Essex (UK). I have over 10 years of working experience in the industry, and my most recent endeavour is building my small business, [PixelsMatter](https://pixelsmatter.io), with my fiancé and Co-Founder/Designer, Christine. 
+I'm a web/software developer based in Rayleigh, Essex (UK). I have over 10 years of working experience in the industry, and my most recent endeavour is building my small business, [PixelsMatter](https://pixelsmatter.io), with my fiancé and Co-Founder/Designer, Christine. 
 
 My favourite stacks are:
 - JAMstack (JavaScript API Markup), typically utilising Next/React, TypeScript, Tailwind and a Node-based CMS
